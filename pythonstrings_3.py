@@ -16,3 +16,14 @@ print(b.split()) #Default split by White space
 print(b.split(',')) #Before ',' one element,after ',' one element
 print(b.split('!')) #Before '!' one element,after ',' one element(here space)
 
+#String Concatination
+#To concatenate, or combine, two strings you can use the + operator.
+a = "Hello"
+b = "World"
+c = a + b
+print(c)
+
+a = "Hello"
+b = "World"
+c = a + " " + b
+print(c)
