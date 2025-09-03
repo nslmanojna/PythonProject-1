@@ -4,20 +4,36 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cf01c375-32a9-4860-ba22-3f7c01599e09" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="cf01c375-32a9-4860-ba22-3f7c01599e09" name="Changes" comment="Add pythonvariables.py file">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythongettingstarted.py" beforeDir="false" afterPath="$PROJECT_DIR$/pythongettingstarted.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "nslmanojna"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/nslmanojna/PythonProject-1.git",
+    "accountId": "6ebfbd2c-0aa4-41d4-b739-cf0ca2d37f74"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
 }</component>
@@ -32,14 +48,21 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.pythoncomments.executor": "Run",
+    "Python.pythondatatypes.executor": "Run",
+    "Python.pythongettingstarted.executor": "Run",
+    "Python.pythonsyntax.executor": "Run",
+    "Python.pythonvariables.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main"
   }
 }]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-d9fa9deec7cb-d902c0275401-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-252.23892.515" />
+        <option value="bundled-python-sdk-79ce2b023f03-d902c0275401-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-252.25557.130" />
       </set>
     </attachedChunks>
   </component>
@@ -51,6 +74,53 @@
       <option name="presentableId" value="Default" />
       <updated>1756788305561</updated>
     </task>
+    <task id="LOCAL-00001" summary="Updated pythongettingstarted.py file">
+      <option name="closed" value="true" />
+      <created>1756791448238</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1756791448238</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Updated pythongettingstarted.py file">
+      <option name="closed" value="true" />
+      <created>1756793135176</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1756793135176</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Add pythocomments.py file">
+      <option name="closed" value="true" />
+      <created>1756794779516</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1756794779516</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Add pythonvariables.py file">
+      <option name="closed" value="true" />
+      <created>1756799435425</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1756799435425</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Add pythonvariables.py file">
+      <option name="closed" value="true" />
+      <created>1756874861884</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1756874861884</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Updated pythongettingstarted.py file" />
+    <MESSAGE value="Add pythocomments.py file" />
+    <MESSAGE value="Add pythonvariables.py file" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add pythonvariables.py file" />
   </component>
 </project>
