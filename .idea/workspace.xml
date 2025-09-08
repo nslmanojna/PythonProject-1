@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cf01c375-32a9-4860-ba22-3f7c01599e09" name="Changes" comment="Add pythondatatypes.py file" />
+    <list default="true" id="cf01c375-32a9-4860-ba22-3f7c01599e09" name="Changes" comment="Added pythonbooleans.py file">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,18 +22,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "nslmanojna"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;nslmanojna&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/nslmanojna/PythonProject-1.git",
-    "accountId": "6ebfbd2c-0aa4-41d4-b739-cf0ca2d37f74"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/nslmanojna/PythonProject-1.git&quot;,
+    &quot;accountId&quot;: &quot;6ebfbd2c-0aa4-41d4-b739-cf0ca2d37f74&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
 }</component>
@@ -43,20 +45,55 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Python.pythoncomments.executor": "Run",
-    "Python.pythondatatypes.executor": "Run",
-    "Python.pythongettingstarted.executor": "Run",
-    "Python.pythonsyntax.executor": "Run",
-    "Python.pythonvariables.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.pythonbooleans.executor&quot;: &quot;Run&quot;,
+    &quot;Python.pythoncomments.executor&quot;: &quot;Run&quot;,
+    &quot;Python.pythondatatypes.executor&quot;: &quot;Run&quot;,
+    &quot;Python.pythongettingstarted.executor&quot;: &quot;Run&quot;,
+    &quot;Python.pythonnumbers.executor&quot;: &quot;Run&quot;,
+    &quot;Python.pythonstrings_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.pythonstrings_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.pythonstrings_3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.pythonsyntax.executor&quot;: &quot;Run&quot;,
+    &quot;Python.pythonvariables.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.editor&quot;
   }
-}]]></component>
+}</component>
+  <component name="RunManager">
+    <configuration name="pythonnumbers" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonProject-1" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pythonnumbers.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.pythonnumbers" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -120,14 +157,115 @@
       <option name="project" value="LOCAL" />
       <updated>1756876008599</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="updated workspace.xml file">
+      <option name="closed" value="true" />
+      <created>1756879143124</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1756879143124</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Added pythonnumbers.py file">
+      <option name="closed" value="true" />
+      <created>1756881904609</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1756881904609</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Added pythoncasting.py file">
+      <option name="closed" value="true" />
+      <created>1756882362400</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1756882362400</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Added pythonstrings.py file">
+      <option name="closed" value="true" />
+      <created>1756883291929</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1756883291929</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Added pythonstrings_2.py file">
+      <option name="closed" value="true" />
+      <created>1756884017743</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1756884017743</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Added pythonstrings_3.py file">
+      <option name="closed" value="true" />
+      <created>1756884822670</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1756884822670</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Added string concatination concept to  pythonstrings_3.py file">
+      <option name="closed" value="true" />
+      <created>1756885367597</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1756885367597</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Added string formattig concept to  pythonstrings_3.py file">
+      <option name="closed" value="true" />
+      <created>1757304354809</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1757304354809</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Updated string formattig concept to  pythonstrings_3.py file">
+      <option name="closed" value="true" />
+      <created>1757304887376</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1757304887376</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Added pythonbooleans.py file">
+      <option name="closed" value="true" />
+      <created>1757308542747</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1757308542747</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Updated pythongettingstarted.py file" />
     <MESSAGE value="Add pythocomments.py file" />
     <MESSAGE value="Add pythonvariables.py file" />
     <MESSAGE value="Add pythondatatypes.py file" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add pythondatatypes.py file" />
+    <MESSAGE value="updated workspace.xml file" />
+    <MESSAGE value="Added pythonnumbers.py file" />
+    <MESSAGE value="Added pythoncasting.py file" />
+    <MESSAGE value="Added pythonstrings.py file" />
+    <MESSAGE value="Added pythonstrings_2.py file" />
+    <MESSAGE value="Added pythonstrings_3.py file" />
+    <MESSAGE value="Added string concatination concept to  pythonstrings_3.py file" />
+    <MESSAGE value="Added string formattig concept to  pythonstrings_3.py file" />
+    <MESSAGE value="Updated string formattig concept to  pythonstrings_3.py file" />
+    <MESSAGE value="Added pythonbooleans.py file" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added pythonbooleans.py file" />
   </component>
 </project>
