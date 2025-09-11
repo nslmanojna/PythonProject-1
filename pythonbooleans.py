@@ -4,17 +4,17 @@
 This file explains the usage of Python Booleans concept
 """
 
-a = 10
-b = 9
-print(a > b)
-print(a == b)
-print(a < b)
+A = 10
+B = 9
+print(A > B)
+print(A == B)
+print(A < B)
 
 # Print a message based on whether the condition is True or False:
-num_1 = 200
-num_2 = 33
+Num_1 = 200
+Num_2 = 33
 
-if num_2 > num_1:
+if Num_2 > Num_1:
     print("num_2 is greater than num_1")
 else:
     print("num_2 is not greater than a")
@@ -43,33 +43,35 @@ class MyClass:
     because __len__ returns 0.
     """
     def __len__(self):
+        """Usage of Booleans in len() function """
         return 0
-    def myFunction(self):
+    def my_Function(self):
+        """Usage of Booleans in user defined function """
         return  True
 
 # Create an object of MyClass
 myobj = MyClass()
 print("Boolean value of myobj:", bool(myobj))  # Output: False
 print("*****************")
-print(myobj.myFunction())
+print(myobj.my_Function())
 print("*********************")
 
 # First function
-def myFunctionTrue():
+def my_Function_True():
     """This method explain the usage of Bool value True"""
     return True
 
-if myFunctionTrue():
+if my_Function_True():
     print("YES!")
 else:
     print("NO!")
 
 # Second function
-def myFunctionFalse():
+def my_Function_False():
     """This method explain the usage of Bool value False"""
     return 0  # 0 is treated as False
 
-if myFunctionFalse():
+if my_Function_False():
     print("YES!")
 else:
     print("NO!")
@@ -79,7 +81,7 @@ else:
 # Check if an object is an integer or not:
 
 int_num = 200
-print(isinstance(x, int))
+print(isinstance(int_num, int))
 
 float_num= 200.00
-print(isinstance(x, int))
+print(isinstance(float_num, int))
