@@ -11,10 +11,10 @@ print(A == B)
 print(A < B)
 
 # Print a message based on whether the condition is True or False:
-Num_1 = 200
-Num_2 = 33
+NUM_1 = 200
+NUM_2 = 33
 
-if Num_2 > Num_1:
+if NUM_2 > NUM_1:
     print("num_2 is greater than num_1")
 else:
     print("num_2 is not greater than a")
@@ -45,7 +45,7 @@ class MyClass:
     def __len__(self):
         """Usage of Booleans in len() function """
         return 0
-    def my_Function(self):
+    def my_function(self):
         """Usage of Booleans in user defined function """
         return  True
 
@@ -53,25 +53,25 @@ class MyClass:
 myobj = MyClass()
 print("Boolean value of myobj:", bool(myobj))  # Output: False
 print("*****************")
-print(myobj.my_Function())
+print(myobj.my_function())
 print("*********************")
 
 # First function
-def my_Function_True():
+def my_function_true():
     """This method explain the usage of Bool value True"""
     return True
 
-if my_Function_True():
+if my_function_true():
     print("YES!")
 else:
     print("NO!")
 
 # Second function
-def my_Function_False():
+def my_function_false():
     """This method explain the usage of Bool value False"""
     return 0  # 0 is treated as False
 
-if my_Function_False():
+if my_function_false():
     print("YES!")
 else:
     print("NO!")
@@ -80,8 +80,8 @@ else:
 # isinstance() function, which can be used to determine if an object is of a certain data type:
 # Check if an object is an integer or not:
 
-int_num = 200
-print(isinstance(int_num, int))
+INTNUM = 200
+print(isinstance(INTNUM, int))
 
-float_num= 200.00
-print(isinstance(float_num, int))
+FLOATNUM= 200.00
+print(isinstance(FLOATNUM, int))
