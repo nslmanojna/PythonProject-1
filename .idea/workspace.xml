@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cf01c375-32a9-4860-ba22-3f7c01599e09" name="Changes" comment="Added pythonlists_1.py file">
+    <list default="true" id="cf01c375-32a9-4860-ba22-3f7c01599e09" name="Changes" comment="Added pythonlists_2.py file">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,29 +45,30 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;Python.pythonbooleans.executor&quot;: &quot;Run&quot;,
-    &quot;Python.pythoncomments.executor&quot;: &quot;Run&quot;,
-    &quot;Python.pythondatatypes.executor&quot;: &quot;Run&quot;,
-    &quot;Python.pythongettingstarted.executor&quot;: &quot;Run&quot;,
-    &quot;Python.pythonlists_1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.pythonlists_2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.pythonnumbers.executor&quot;: &quot;Run&quot;,
-    &quot;Python.pythonstrings_1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.pythonstrings_2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.pythonstrings_3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.pythonsyntax.executor&quot;: &quot;Run&quot;,
-    &quot;Python.pythonvariables.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/manojna.nanduri/PycharmProjects/PythonProject-1&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.editor&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.pythonbooleans.executor": "Run",
+    "Python.pythoncomments.executor": "Run",
+    "Python.pythondatatypes.executor": "Run",
+    "Python.pythongettingstarted.executor": "Run",
+    "Python.pythonlists_1.executor": "Run",
+    "Python.pythonlists_2.executor": "Run",
+    "Python.pythonlists_3.executor": "Run",
+    "Python.pythonnumbers.executor": "Run",
+    "Python.pythonstrings_1.executor": "Run",
+    "Python.pythonstrings_2.executor": "Run",
+    "Python.pythonstrings_3.executor": "Run",
+    "Python.pythonsyntax.executor": "Run",
+    "Python.pythonvariables.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/manojna.nanduri/PycharmProjects/PythonProject-1",
+    "settings.editor.selected.configurable": "preferences.editor"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration name="pythonnumbers" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonProject-1" />
@@ -256,7 +257,15 @@
       <option name="project" value="LOCAL" />
       <updated>1757482038976</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="Added pythonlists_2.py file">
+      <option name="closed" value="true" />
+      <created>1757565246906</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1757565246906</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -286,6 +295,7 @@
     <MESSAGE value="Updated string formattig concept to  pythonstrings_3.py file" />
     <MESSAGE value="Added pythonbooleans.py file" />
     <MESSAGE value="Added pythonlists_1.py file" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added pythonlists_1.py file" />
+    <MESSAGE value="Added pythonlists_2.py file" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added pythonlists_2.py file" />
   </component>
 </project>
