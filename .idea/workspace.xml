@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cf01c375-32a9-4860-ba22-3f7c01599e09" name="Changes" comment="Updated pythonbooleans.py file according to pylint standards">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythonbooleans.py" beforeDir="false" afterPath="$PROJECT_DIR$/pythonbooleans.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythoncasting.py" beforeDir="false" afterPath="$PROJECT_DIR$/pythoncasting.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -306,7 +305,15 @@
       <option name="project" value="LOCAL" />
       <updated>1757575914542</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="Updated pythonbooleans.py file according to pylint standards">
+      <option name="closed" value="true" />
+      <created>1757576411399</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1757576411399</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

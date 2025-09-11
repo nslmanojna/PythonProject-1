@@ -13,20 +13,26 @@
 # str() - constructs a string from a wide variety of data types,
 # including strings, integer literals and float literals
 
+"""
+Casting in python is therefore done using constructor functions
+"""
+
 #Integers:
-x = int(1)   # x will be 1
-y = int(2.8) # y will be 2
-z = int("3") # z will be 3
+
+X = int(1)   # x will be 1
+Y = int(2.8) # y will be 2
+Z = int("3") # z will be 3
 
 #Floats:
 
-x = float(1)     # x will be 1.0
-y = float(2.8)   # y will be 2.8
-z = float("3")   # z will be 3.0
-w = float("4.2") # w will be 4.2
+A = float(1)     # x will be 1.0
+B = float(2.8)   # y will be 2.8
+C = float("3")   # z will be 3.0
+D = float("4.2") # w will be 4.2
 
 #Strings:
 
-x = str("s1") # x will be 's1'
-y = str(2)    # y will be '2'
-z = str(3.0)  # z will be '3.0'
+A = str("s1") # x will be 's1'
+B = str(2)    # y will be '2'
+C = str(3.0)  # z will be '3.0'
+
