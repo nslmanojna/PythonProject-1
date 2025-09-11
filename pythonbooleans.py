@@ -1,17 +1,23 @@
 # Python Booleans
 # Bool represent one of two values: True or False.
-print(10 > 9)
-print(10 == 9)
-print(10 < 9)
+"""
+This file explains the usage of Python Booleans concept
+"""
+
+a = 10
+b = 9
+print(a > b)
+print(a == b)
+print(a < b)
 
 # Print a message based on whether the condition is True or False:
-a = 200
-b = 33
+num_1 = 200
+num_2 = 33
 
-if b > a:
-    print("b is greater than a")
+if num_2 > num_1:
+    print("num_2 is greater than num_1")
 else:
-    print("b is not greater than a")
+    print("num_2 is not greater than a")
 
 # The bool() function allows you to evaluate any value, and give you True or False in return
 print(bool("Hello"))  # True
@@ -31,30 +37,39 @@ print(bool(0))  # False
 # One more value, or object in this case, evaluates to False, and that is if you have
 # an object that is made from a class with a __len__ function that returns 0 or False:
 # Example
-class myclass:
+class MyClass:
+    """
+    This class returns Boolean value False
+    because __len__ returns 0.
+    """
     def __len__(self):
         return 0
+    def myFunction(self):
+        return  True
 
+# Create an object of MyClass
+myobj = MyClass()
+print("Boolean value of myobj:", bool(myobj))  # Output: False
+print("*****************")
+print(myobj.myFunction())
+print("*********************")
 
-myobj = myclass()
-print(bool(myobj))
-
-
-def myFunction():
+# First function
+def myFunctionTrue():
+    """This method explain the usage of Bool value True"""
     return True
 
-
-if myFunction():
+if myFunctionTrue():
     print("YES!")
 else:
     print("NO!")
 
+# Second function
+def myFunctionFalse():
+    """This method explain the usage of Bool value False"""
+    return 0  # 0 is treated as False
 
-def myFunction():
-    return 0
-
-
-if myFunction():
+if myFunctionFalse():
     print("YES!")
 else:
     print("NO!")
@@ -63,8 +78,8 @@ else:
 # isinstance() function, which can be used to determine if an object is of a certain data type:
 # Check if an object is an integer or not:
 
-x = 200
+int_num = 200
 print(isinstance(x, int))
 
-x = 200.00
+float_num= 200.00
 print(isinstance(x, int))
