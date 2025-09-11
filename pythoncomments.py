@@ -5,9 +5,3 @@ Single Line Comments - Starts with #
 Multi Line Comments - """ """
 """
 print("Hello World!")
-
-"""
-This is a multi line 
-comment
-"""
-
