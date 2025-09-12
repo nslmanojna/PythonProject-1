@@ -28,12 +28,12 @@
     &quot;assignee&quot;: &quot;nslmanojna&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/nslmanojna/PythonProject-1.git",
-    "accountId": "c1857bfc-dc88-489e-96cc-19a0aed3f6f0"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/nslmanojna/PythonProject-1.git&quot;,
+    &quot;accountId&quot;: &quot;4e7e04c2-8601-4de4-adfb-9ba86ab7e440&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
 }</component>
@@ -45,31 +45,31 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Python.pythonbooleans.executor": "Run",
-    "Python.pythoncomments.executor": "Run",
-    "Python.pythondatatypes.executor": "Run",
-    "Python.pythongettingstarted.executor": "Run",
-    "Python.pythonlists_1.executor": "Run",
-    "Python.pythonlists_2.executor": "Run",
-    "Python.pythonlists_3.executor": "Run",
-    "Python.pythonnumbers.executor": "Run",
-    "Python.pythonstrings_1.executor": "Run",
-    "Python.pythonstrings_2.executor": "Run",
-    "Python.pythonstrings_3.executor": "Run",
-    "Python.pythonsyntax.executor": "Run",
-    "Python.pythontuples.executor": "Run",
-    "Python.pythonvariables.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/manojna.nanduri/PycharmProjects/PythonProject-1",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.pythonbooleans.executor&quot;: &quot;Run&quot;,
+    &quot;Python.pythoncomments.executor&quot;: &quot;Run&quot;,
+    &quot;Python.pythondatatypes.executor&quot;: &quot;Run&quot;,
+    &quot;Python.pythongettingstarted.executor&quot;: &quot;Run&quot;,
+    &quot;Python.pythonlists_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.pythonlists_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.pythonlists_3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.pythonnumbers.executor&quot;: &quot;Run&quot;,
+    &quot;Python.pythonstrings_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.pythonstrings_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.pythonstrings_3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.pythonsyntax.executor&quot;: &quot;Run&quot;,
+    &quot;Python.pythontuples.executor&quot;: &quot;Run&quot;,
+    &quot;Python.pythonvariables.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/manojna.nanduri/PycharmProjects/PythonProject-1&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="pythonnumbers" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonProject-1" />
@@ -370,15 +370,50 @@
       <option name="project" value="LOCAL" />
       <updated>1757657648709</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="Added pythontuples.py file according to pylint standards">
+      <option name="closed" value="true" />
+      <created>1757658677590</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1757658677590</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="User">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="*" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="user">
+                    <value>
+                      <list>
+                        <option value="*" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
