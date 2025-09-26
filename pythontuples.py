@@ -170,4 +170,5 @@ print("********************************************************************")
 #The del keyword can delete the tuple completely:
 this_tuple = ("apple", "banana", "cherry")
 del this_tuple
-print(this_tuple) #this will raise an error because the tuple no longer exists
+#print(this_tuple) #this will raise an error because the tuple no longer exists
+
