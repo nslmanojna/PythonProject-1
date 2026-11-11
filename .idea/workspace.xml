@@ -1,0 +1,458 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cf01c375-32a9-4860-ba22-3f7c01599e09" name="Changes" comment="Added pythontuples.py file according to pylint standards">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonintro.py" beforeDir="false" afterPath="$PROJECT_DIR$/pythonintro.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythontuples.py" beforeDir="false" afterPath="$PROJECT_DIR$/pythontuples.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;nslmanojna&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/nslmanojna/PythonProject-1.git",
+    "accountId": "6ebfbd2c-0aa4-41d4-b739-cf0ca2d37f74"
+  }
+}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="3283Jz2QPyL7fryZyBXoi4bTryB" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.pythonbooleans.executor": "Run",
+    "Python.pythoncomments.executor": "Run",
+    "Python.pythondatatypes.executor": "Run",
+    "Python.pythongettingstarted.executor": "Run",
+    "Python.pythonintro.executor": "Run",
+    "Python.pythonlists_1.executor": "Run",
+    "Python.pythonlists_2.executor": "Run",
+    "Python.pythonlists_3.executor": "Run",
+    "Python.pythonnumbers.executor": "Run",
+    "Python.pythonstrings_1.executor": "Run",
+    "Python.pythonstrings_2.executor": "Run",
+    "Python.pythonstrings_3.executor": "Run",
+    "Python.pythonsyntax.executor": "Run",
+    "Python.pythontuples.executor": "Run",
+    "Python.pythonvariables.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/manojna.nanduri/PycharmProjects/PythonProject-1",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="pythonnumbers" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonProject-1" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pythonnumbers.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.pythonnumbers" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-8753aad8314d-d902c0275401-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-252.25557.178" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cf01c375-32a9-4860-ba22-3f7c01599e09" name="Changes" comment="" />
+      <created>1756788305561</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1756788305561</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Updated pythongettingstarted.py file">
+      <option name="closed" value="true" />
+      <created>1756791448238</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1756791448238</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Updated pythongettingstarted.py file">
+      <option name="closed" value="true" />
+      <created>1756793135176</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1756793135176</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Add pythocomments.py file">
+      <option name="closed" value="true" />
+      <created>1756794779516</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1756794779516</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Add pythonvariables.py file">
+      <option name="closed" value="true" />
+      <created>1756799435425</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1756799435425</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Add pythonvariables.py file">
+      <option name="closed" value="true" />
+      <created>1756874861884</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1756874861884</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Add pythondatatypes.py file">
+      <option name="closed" value="true" />
+      <created>1756876008599</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1756876008599</updated>
+    </task>
+    <task id="LOCAL-00007" summary="updated workspace.xml file">
+      <option name="closed" value="true" />
+      <created>1756879143124</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1756879143124</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Added pythonnumbers.py file">
+      <option name="closed" value="true" />
+      <created>1756881904609</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1756881904609</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Added pythoncasting.py file">
+      <option name="closed" value="true" />
+      <created>1756882362400</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1756882362400</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Added pythonstrings.py file">
+      <option name="closed" value="true" />
+      <created>1756883291929</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1756883291929</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Added pythonstrings_2.py file">
+      <option name="closed" value="true" />
+      <created>1756884017743</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1756884017743</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Added pythonstrings_3.py file">
+      <option name="closed" value="true" />
+      <created>1756884822670</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1756884822670</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Added string concatination concept to  pythonstrings_3.py file">
+      <option name="closed" value="true" />
+      <created>1756885367597</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1756885367597</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Added string formattig concept to  pythonstrings_3.py file">
+      <option name="closed" value="true" />
+      <created>1757304354809</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1757304354809</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Updated string formattig concept to  pythonstrings_3.py file">
+      <option name="closed" value="true" />
+      <created>1757304887376</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1757304887376</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Added pythonbooleans.py file">
+      <option name="closed" value="true" />
+      <created>1757308542747</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1757308542747</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Added pythonbooleans.py file">
+      <option name="closed" value="true" />
+      <created>1757308674560</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1757308674560</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Added pythonlists_1.py file">
+      <option name="closed" value="true" />
+      <created>1757482038976</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1757482038976</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Added pythonlists_2.py file">
+      <option name="closed" value="true" />
+      <created>1757565246906</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1757565246906</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Added pythonlists_2.py file">
+      <option name="closed" value="true" />
+      <created>1757568969524</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1757568969524</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Updated main.py file">
+      <option name="closed" value="true" />
+      <created>1757569727524</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1757569727524</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Updated pythonbooleans.py file">
+      <option name="closed" value="true" />
+      <created>1757571065859</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1757571065859</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Updated pythonbooleans.py file">
+      <option name="closed" value="true" />
+      <created>1757574212741</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1757574212741</updated>
+    </task>
+    <task id="LOCAL-00024" summary="Updated pythonbooleans.py file according to pylint standards">
+      <option name="closed" value="true" />
+      <created>1757575914542</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1757575914542</updated>
+    </task>
+    <task id="LOCAL-00025" summary="Updated pythonbooleans.py file according to pylint standards">
+      <option name="closed" value="true" />
+      <created>1757576411399</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1757576411399</updated>
+    </task>
+    <task id="LOCAL-00026" summary="Updated pythoncasting.py file according to pylint standards">
+      <option name="closed" value="true" />
+      <created>1757576855616</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1757576855616</updated>
+    </task>
+    <task id="LOCAL-00027" summary="Updated pythoncasting.py file according to pylint standards">
+      <option name="closed" value="true" />
+      <created>1757577142058</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1757577142058</updated>
+    </task>
+    <task id="LOCAL-00028" summary="Updated pythonstring.py file according to pylint standards">
+      <option name="closed" value="true" />
+      <created>1757577378185</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1757577378185</updated>
+    </task>
+    <task id="LOCAL-00029" summary="Updated pythonstring.py file according to pylint standards">
+      <option name="closed" value="true" />
+      <created>1757577476622</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1757577476622</updated>
+    </task>
+    <task id="LOCAL-00030" summary="Updated pythonstring.py file according to pylint standards">
+      <option name="closed" value="true" />
+      <created>1757577617681</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1757577617681</updated>
+    </task>
+    <task id="LOCAL-00031" summary="Added pythontuples.py file according to pylint standards">
+      <option name="closed" value="true" />
+      <created>1757657600259</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1757657600259</updated>
+    </task>
+    <task id="LOCAL-00032" summary="Added pythontuples.py file according to pylint standards">
+      <option name="closed" value="true" />
+      <created>1757657648709</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1757657648709</updated>
+    </task>
+    <task id="LOCAL-00033" summary="Added pythontuples.py file according to pylint standards">
+      <option name="closed" value="true" />
+      <created>1757658677590</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1757658677590</updated>
+    </task>
+    <task id="LOCAL-00034" summary="Added pythontuples.py file according to pylint standards">
+      <option name="closed" value="true" />
+      <created>1757666076913</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1757666076913</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="User">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="*" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="user">
+                    <value>
+                      <list>
+                        <option value="*" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Updated pythongettingstarted.py file" />
+    <MESSAGE value="Add pythocomments.py file" />
+    <MESSAGE value="Add pythonvariables.py file" />
+    <MESSAGE value="Add pythondatatypes.py file" />
+    <MESSAGE value="updated workspace.xml file" />
+    <MESSAGE value="Added pythonnumbers.py file" />
+    <MESSAGE value="Added pythoncasting.py file" />
+    <MESSAGE value="Added pythonstrings.py file" />
+    <MESSAGE value="Added pythonstrings_2.py file" />
+    <MESSAGE value="Added pythonstrings_3.py file" />
+    <MESSAGE value="Added string concatination concept to  pythonstrings_3.py file" />
+    <MESSAGE value="Added string formattig concept to  pythonstrings_3.py file" />
+    <MESSAGE value="Updated string formattig concept to  pythonstrings_3.py file" />
+    <MESSAGE value="Added pythonbooleans.py file" />
+    <MESSAGE value="Added pythonlists_1.py file" />
+    <MESSAGE value="Added pythonlists_2.py file" />
+    <MESSAGE value="Updated main.py file" />
+    <MESSAGE value="Updated pythonbooleans.py file" />
+    <MESSAGE value="Updated pythonbooleans.py file according to pylint standards" />
+    <MESSAGE value="Updated pythoncasting.py file according to pylint standards" />
+    <MESSAGE value="Updated pythonstring.py file according to pylint standards" />
+    <MESSAGE value="Added pythontuples.py file according to pylint standards" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added pythontuples.py file according to pylint standards" />
+  </component>
+</project>
