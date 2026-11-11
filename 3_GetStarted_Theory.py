@@ -1,6 +1,7 @@
 import sys
 print("Python version:")
 print (sys.version)
+print (sys.version)
 
 #We are able to run Python code in the terminal or command prompt by typing python or 
 # python3 depending on your installation. 
